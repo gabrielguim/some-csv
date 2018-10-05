@@ -1,8 +1,8 @@
 "","turno","regiao","nome","totalVotos","totalPorcentagem"
 "1","Turno 1","Centro-Oeste","Aécio Neves",2592023,2.5
 "2","Turno 1","Centro-Oeste","Dilma Rousseff",2158889,2.08
-"3","Turno 1","Distrito Federal","Aécio Neves",3507686,3.38
-"4","Turno 1","Distrito Federal","Dilma Rousseff",3986466,3.84
+"3","Turno 1","DF","Aécio Neves",3507686,3.38
+"4","Turno 1","DF","Dilma Rousseff",3986466,3.84
 "5","Turno 1","Nordeste","Aécio Neves",4226011,4.06
 "6","Turno 1","Nordeste","Dilma Rousseff",16400138,15.8
 "7","Turno 1","Norte","Aécio Neves",2282132,2.2
@@ -13,8 +13,8 @@
 "12","Turno 1","Sul","Dilma Rousseff",5864291,5.65
 "13","Turno 2","Centro-Oeste","Aécio Neves",3445319,3.27
 "14","Turno 2","Centro-Oeste","Dilma Rousseff",2673723,2.54
-"15","Turno 2","Distrito Federal","Aécio Neves",5688430,5.4
-"16","Turno 2","Distrito Federal","Dilma Rousseff",5980670,5.68
+"15","Turno 2","DF","Aécio Neves",5688430,5.4
+"16","Turno 2","DF","Dilma Rousseff",5980670,5.68
 "17","Turno 2","Nordeste","Aécio Neves",7967846,7.55
 "18","Turno 2","Nordeste","Dilma Rousseff",20176579,19.13
 "19","Turno 2","Norte","Aécio Neves",3376148,3.21
