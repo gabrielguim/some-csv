@@ -1,55 +1,55 @@
-"","nome","estado.x","turno.x","votos","porcentagem"
-"1","Dilma Rousseff","Amazonas","Turno 1",915030,0.88
-"2","Dilma Rousseff","Pará","Turno 1",2040696,1.97
-"3","Dilma Rousseff","Amapá","Turno 1",198939,0.19
-"4","Dilma Rousseff","Tocantins","Turno 1",368348,0.35
-"5","Dilma Rousseff","Maranhão","Turno 1",2187668,2.11
-"6","Dilma Rousseff","Piauí","Turno 1",1235203,1.19
-"7","Dilma Rousseff","Ceará","Turno 1",3087115,2.97
-"8","Dilma Rousseff","R. G. do Norte","Turno 1",999452,0.96
-"9","Dilma Rousseff","Paraíba","Turno 1",1166632,1.12
-"10","Dilma Rousseff","Pernambuco","Turno 1",2126491,2.05
-"11","Dilma Rousseff","Alagoas","Turno 1",703674,0.68
-"12","Dilma Rousseff","Sergipe","Turno 1",601578,0.58
-"13","Dilma Rousseff","Bahia","Turno 1",4292325,4.14
-"14","Dilma Rousseff","Minas Gerais","Turno 1",4829513,4.65
-"15","Dilma Rousseff","Rio de Janeiro ","Turno 1",2970486,2.86
-"16","Dilma Rousseff","R. G. do Sul","Turno 1",2751098,2.65
-"17","Aécio Neves","Rondônia","Turno 1",371692,0.36
-"18","Aécio Neves","Acre","Turno 1",116015,0.11
-"19","Aécio Neves","Roraima","Turno 1",108903,0.1
-"20","Aécio Neves","Espirito Santo","Turno 1",692952,0.67
-"21","Aécio Neves","São Paulo","Turno 1",10152688,9.78
-"22","Aécio Neves","Paraná","Turno 1",3018548,2.91
-"23","Aécio Neves","Santa Catarina","Turno 1",1961224,1.89
-"24","Aécio Neves","M. G. do Sul","Turno 1",558331,0.54
-"25","Aécio Neves","Mato Grosso","Turno 1",693251,0.67
-"26","Aécio Neves","Goiás","Turno 1",1340441,1.29
-"27","Aécio Neves","Distrito Federal","Turno 1",568371,0.55
-"28","Dilma Rousseff","Amazonas","Turno 2",1033090,0.98
-"29","Dilma Rousseff","Pará","Turno 2",2103829,2
-"30","Dilma Rousseff","Amapá","Turno 2",227414,0.22
-"31","Dilma Rousseff","Tocantins","Turno 2",428662,0.41
-"32","Dilma Rousseff","Maranhão","Turno 2",2475762,2.35
-"33","Dilma Rousseff","Piauí","Turno 2",1385096,1.31
-"34","Dilma Rousseff","Ceará","Turno 2",3522225,3.34
-"35","Dilma Rousseff","R. G. do Norte","Turno 2",1201576,1.14
-"36","Dilma Rousseff","Paraíba","Turno 2",1380988,1.31
-"37","Dilma Rousseff","Pernambuco","Turno 2",3438165,3.26
-"38","Dilma Rousseff","Alagoas","Turno 2",941286,0.89
-"39","Dilma Rousseff","Sergipe","Turno 2",772253,0.73
-"40","Dilma Rousseff","Bahia","Turno 2",5059228,4.8
-"41","Dilma Rousseff","Minas Gerais","Turno 2",5979422,5.68
-"42","Dilma Rousseff","Rio de Janeiro ","Turno 2",4488183,4.26
-"43","Aécio Neves","Rondônia","Turno 2",442349,0.42
-"44","Aécio Neves","Acre","Turno 2",243530,0.23
-"45","Aécio Neves","Roraima","Turno 2",139477,0.13
-"46","Aécio Neves","Espirito Santo","Turno 2",1064067,1.01
-"47","Aécio Neves","São Paulo","Turno 2",15296289,14.52
-"48","Aécio Neves","Paraná","Turno 2",3765025,3.57
-"49","Aécio Neves","Santa Catarina","Turno 2",2469079,2.34
-"50","Aécio Neves","R. G. do Sul","Turno 2",3452455,3.28
-"51","Aécio Neves","M. G. do Sul","Turno 2",762233,0.72
-"52","Aécio Neves","Mato Grosso","Turno 2",864999,0.82
-"53","Aécio Neves","Goiás","Turno 2",1818087,1.73
-"54","Aécio Neves","Distrito Federal","Turno 2",943275,0.9
+,nome,estado.x,turno.x,votos,porcentagem,uf
+1,Dilma Rousseff,Acre,Turno 1,915030,0.88,AC
+2,Dilma Rousseff,Acre,Turno 1,2040696,1.97,AC
+3,Dilma Rousseff,Alagoas,Turno 1,198939,0.19,AL
+4,Dilma Rousseff,Alagoas,Turno 1,368348,0.35,AL
+5,Dilma Rousseff,Amapá,Turno 1,2187668,2.11,AP
+6,Dilma Rousseff,Amapá,Turno 1,1235203,1.19,AP
+7,Dilma Rousseff,Amazonas,Turno 1,3087115,2.97,AM
+8,Dilma Rousseff,Amazonas,Turno 1,999452,0.96,AM
+9,Dilma Rousseff,Bahia,Turno 1,1166632,1.12,BA
+10,Dilma Rousseff,Bahia,Turno 1,2126491,2.05,BA
+11,Dilma Rousseff,Ceará,Turno 1,703674,0.68,CE
+12,Dilma Rousseff,Ceará,Turno 1,601578,0.58,CE
+13,Dilma Rousseff,Distrito Federal,Turno 1,4292325,4.14,DF
+14,Dilma Rousseff,Distrito Federal,Turno 1,4829513,4.65,DF
+15,Dilma Rousseff,Espirito Santo,Turno 1,2970486,2.86,ES
+16,Dilma Rousseff,Espirito Santo,Turno 1,2751098,2.65,ES
+17,Aécio Neves,Goiás,Turno 1,371692,0.36,GO
+18,Aécio Neves,Goiás,Turno 1,116015,0.11,GO
+19,Aécio Neves,M. G. do Sul,Turno 1,108903,0.1,MS
+20,Aécio Neves,M. G. do Sul,Turno 1,692952,0.67,MS
+21,Aécio Neves,Maranhão,Turno 1,10152688,9.78,MA
+22,Aécio Neves,Maranhão,Turno 1,3018548,2.91,MA
+23,Aécio Neves,Mato Grosso,Turno 1,1961224,1.89,MT
+24,Aécio Neves,Mato Grosso,Turno 1,558331,0.54,MT
+25,Aécio Neves,Minas Gerais,Turno 1,693251,0.67,MG
+26,Aécio Neves,Minas Gerais,Turno 1,1340441,1.29,MG
+27,Aécio Neves,Pará,Turno 1,568371,0.55,PA
+28,Dilma Rousseff,Pará,Turno 2,1033090,0.98,PA
+29,Dilma Rousseff,Paraíba,Turno 2,2103829,2,PB
+30,Dilma Rousseff,Paraíba,Turno 2,227414,0.22,PB
+31,Dilma Rousseff,Paraná,Turno 2,428662,0.41,PR
+32,Dilma Rousseff,Paraná,Turno 2,2475762,2.35,PR
+33,Dilma Rousseff,Pernambuco,Turno 2,1385096,1.31,PE
+34,Dilma Rousseff,Pernambuco,Turno 2,3522225,3.34,PE
+35,Dilma Rousseff,Piauí,Turno 2,1201576,1.14,PI
+36,Dilma Rousseff,Piauí,Turno 2,1380988,1.31,PI
+37,Dilma Rousseff,R. G. do Norte,Turno 2,3438165,3.26,RN
+38,Dilma Rousseff,R. G. do Norte,Turno 2,941286,0.89,RN
+39,Dilma Rousseff,R. G. do Sul,Turno 2,772253,0.73,RS
+40,Dilma Rousseff,R. G. do Sul,Turno 2,5059228,4.8,RS
+41,Dilma Rousseff,Rio de Janeiro ,Turno 2,5979422,5.68,RJ
+42,Dilma Rousseff,Rio de Janeiro ,Turno 2,4488183,4.26,RJ
+43,Aécio Neves,Rondônia,Turno 2,442349,0.42,RO
+44,Aécio Neves,Rondônia,Turno 2,243530,0.23,RO
+45,Aécio Neves,Roraima,Turno 2,139477,0.13,RR
+46,Aécio Neves,Roraima,Turno 2,1064067,1.01,RR
+47,Aécio Neves,Santa Catarina,Turno 2,15296289,14.52,SC
+48,Aécio Neves,Santa Catarina,Turno 2,3765025,3.57,SC
+49,Aécio Neves,São Paulo,Turno 2,2469079,2.34,SP
+50,Aécio Neves,São Paulo,Turno 2,3452455,3.28,SP
+51,Aécio Neves,Sergipe,Turno 2,762233,0.72,SE
+52,Aécio Neves,Sergipe,Turno 2,864999,0.82,SE
+53,Aécio Neves,Tocantins,Turno 2,1818087,1.73,TO
+54,Aécio Neves,Tocantins,Turno 2,943275,0.9,TO
