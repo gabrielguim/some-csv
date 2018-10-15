@@ -1,4 +1,4 @@
-"","estado","nome","partido","coligacao","votos","porcentagem","cargo","ano","turno","maxVotos","ganhou","estados_sigla","UF"
+"","estado","nome","partido","coligacao","votos","porcentagem","cargo","ano","turno","maxVotos","ganhou","estados_sigla","uf"
 "1","Rondônia","Dilma Rousseff","PT","PT PT PMDB PSD PP PR PROS PDT PC B PRB",345167,0.33,"Presidente",2014,"Turno 1",371692,FALSE,"RO","RO"
 "2","Acre","Dilma Rousseff","PT","PT PT PMDB PSD PP PR PROS PDT PC B PRB",111610,0.11,"Presidente",2014,"Turno 1",116015,FALSE,"AC","AC"
 "3","Amazonas","Dilma Rousseff","PT","PT PT PMDB PSD PP PR PROS PDT PC B PRB",915030,0.88,"Presidente",2014,"Turno 1",915030,TRUE,"AM","AM"
